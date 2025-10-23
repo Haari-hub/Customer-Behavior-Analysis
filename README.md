@@ -20,7 +20,7 @@ documentation.
 ○ Created purchase_frequency_days column from purchase data. 
 ● Data Consistency Check: Verified if discount_applied and promo_code_used 
 were redundant; dropped promo_code_used. 
-● Database Integration: Connected Python script to PostgreSQL and loaded the cleaned 
+● Database Integration: Connected Python script to MYSQL and loaded the cleaned 
 DataFrame into the database for SQL analysis.
 ## 4. Data Analysis using SQL (Business Transactions) 
  Performed structured analysis in MYSQL to answer key business questions: 
